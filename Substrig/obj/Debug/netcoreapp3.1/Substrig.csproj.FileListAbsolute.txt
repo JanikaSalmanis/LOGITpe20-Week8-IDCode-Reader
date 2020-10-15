@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\obj\Debug\netcoreapp3.1\Substrig.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\obj\Debug\netcoreapp3.1\Substrig.AssemblyInfo.cs
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\obj\Debug\netcoreapp3.1\Substrig.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\bin\Debug\netcoreapp3.1\Substrig.exe
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\bin\Debug\netcoreapp3.1\Substrig.deps.json
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\bin\Debug\netcoreapp3.1\Substrig.runtimeconfig.json
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\bin\Debug\netcoreapp3.1\Substrig.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\bin\Debug\netcoreapp3.1\Substrig.dll
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\bin\Debug\netcoreapp3.1\Substrig.pdb
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\obj\Debug\netcoreapp3.1\Substrig.dll
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\obj\Debug\netcoreapp3.1\Substrig.pdb
+C:\Users\opilane\source\repos\IDCodeReader\Substrig\obj\Debug\netcoreapp3.1\Substrig.genruntimeconfig.cache
