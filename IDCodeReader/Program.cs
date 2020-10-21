@@ -14,11 +14,13 @@ namespace IDCodeReader
             {
                 Console.WriteLine("welcome!");
                 HelloUser(usersID);
+                GetAge(usersID);
             }
             else
             {
                 Console.WriteLine("wrong format. try again.");
             }
+            
         }
 
         public static bool Validate(string idCode)
@@ -52,6 +54,33 @@ namespace IDCodeReader
             {
                 Console.WriteLine("hello, madam!");
             }
+            
+        }
+
+        public static int GetYear(string idCode)
+        {
+
+            string yearFromCode = idCode.Substring(1, 2);
+            string year;
+            if (int.Parse(idCode[0].ToString()) > 4)
+            {
+                year = "20" + yearFromCode;
+            }
+            else
+            {
+                year = "19" + yearFromCode;
+            }
+            Console.WriteLine($"You were born in {year}");
+            int yearParsed = Int32.Parse(year);
+            return yearParsed;
+        }
+        public static void GetAge(string idCode)
+        {
+            int yearOfBirth = GetYear(idCode);
+            DateTime now = DateTime.Now;
+            int yearNow = Int32.Parse(now.Year.ToString());
+            int age = yearNow - yearOfBirth;
+            Console.WriteLine($"You are {age} years old");
         }
     }
 }

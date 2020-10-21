@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\YearValitator\\YearValitator.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\CVVValitation\\CVVValitation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\YearValitator\\YearValitator.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\CVVValitation\\CVVValitation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\YearValitator\\YearValitator.csproj",
-        "projectName": "YearValitator",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\YearValitator\\YearValitator.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\CVVValitation\\CVVValitation.csproj",
+        "projectName": "CVVValitation",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\CVVValitation\\CVVValitation.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\YearValitator\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\IDCodeReader\\CVVValitation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
